@@ -1,0 +1,28 @@
+body {
+	background-color: #A7EACC;
+	color: black;
+	font-family: 'Lora', serif;
+	letter-spacing:  2px;
+	text-align: center;
+}
+h1 {
+	font-size: 40;
+	margin:  10px;
+}
+p {
+	width: 38cm;
+}
+img {
+	width: 70%;
+	height: 150px;
+	margin-top: 10px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+ul {
+	font-size: 10px;
+	list-style-type:  circle;
+}
